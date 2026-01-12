@@ -2,7 +2,7 @@
 # include <stdio.h>
 
 int main(){
-  int side;
+  float side;
   printf("enter  side: ");
     scanf("%f", &side);
     
