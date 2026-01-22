@@ -12,4 +12,4 @@ for num in range (1, 100):
     print(num)
 
 function()
-#compiler reads the code line by line but doesn't excite print hello befor reading function() 
+#compiler reads the code line by line but doesn't excute print Sarah before reading function() 
