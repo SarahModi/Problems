@@ -10,6 +10,14 @@ The goal is not speed or volume, but:
 - developing consistency and problem-solving discipline
 - building projects while learning!!!
 
+## Long-Term Goal
+
+To build a strong foundation for:
+- systems programming
+- cybersecurity
+- automation
+- cloud and backend engineering
+
 ## Structure
 
 C programs and Python programs are organized separately
