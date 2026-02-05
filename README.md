@@ -23,3 +23,12 @@ To build a strong foundation for:
 
 C programs and Python programs are organized separately
 
+## In case you're curious who my mentors are:
+
+### For C
+Apna college: https://youtu.be/irqbmMNs2Bo?si=MAtd1xWC8YVBAfTU
+
+### For Python
+Ryan John: https://youtu.be/XWuP5Yf5ILI?si=8It1diYmDnKJhdhJ
+
+
