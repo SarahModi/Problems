@@ -13,10 +13,11 @@ The goal is not speed or volume, but:
 ## Long-Term Goal
 
 To build a strong foundation for:
-- systems programming
+- speak C and Python without hassle
 - cybersecurity
 - automation
-- cloud and backend engineering
+- cloud security
+- tools and scripts
 
 ## Structure
 
