@@ -1,0 +1,19 @@
+// swapping variables
+#include <stdio.h>
+
+int main(){
+int a = 19;
+int b = 18;
+int t;
+
+
+printf("Before swapping: %d %d\n", a,b);
+
+t = a;
+a = b;
+b = t;
+
+printf("After swapping: %d %d", a,b);
+    
+return 0;
+}
