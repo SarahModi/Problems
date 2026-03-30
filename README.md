@@ -32,6 +32,7 @@ Apna college: https://youtu.be/irqbmMNs2Bo?si=MAtd1xWC8YVBAfTU
 Ryan John: https://youtu.be/XWuP5Yf5ILI?si=8It1diYmDnKJhdhJ
 
 # Current Plan Sketch
+```
 problems/
 ├── README.md (updated with roadmap)
 ├── C/
@@ -83,3 +84,4 @@ problems/
     │   └── day_32/           
     │
     └──
+```
