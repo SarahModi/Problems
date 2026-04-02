@@ -13,7 +13,7 @@ Goal: Prove arrays are stored in contiguous memory.
 
 int main()
 {
-  int arr[5]={10,20,30,40,50};
+  int arr[5]={10,2,30,4,50};
 
   for(int i = 0; i < 5; i++)
   {
