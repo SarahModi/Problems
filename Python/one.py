@@ -1,0 +1,7 @@
+print("hello")
+print(4.5)
+print (8)
+print (4.5, "hello")
+print ('4.5', 'hello')
+print("hello", 'end', 7, False, end='|')
+print ('hi')
