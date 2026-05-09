@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs directory (IMPORTANT - Don't commit keylog data!)
+logs/
+*.json
+*.log
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+.tmp
+
+# Node modules (if using any web tools)
+node_modules/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Sensitive data
+secrets.txt
+api_keys.txt
+credentials.json
+
+# Project specific
+keylog_*.json
+windows_*.json
+demo_logs/
