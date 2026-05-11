@@ -1,9 +1,8 @@
-# What Does a Keylogger NEED To Do?
+# What Does a Keylogger Do?
 #Listen for keyboard input 
 #Capture that key 
 #Save it somewhere 
 #Stop when asked 
-
 
 from pynput import keyboard
 import json
