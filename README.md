@@ -2,7 +2,7 @@
 
 # C & Python Practice
 
-This repository is a dump of coding C and python programming
+This repository is a dump of C and python coding projects and problems
 
 The goal is not speed or volume, but:
 - building strong fundamentals
