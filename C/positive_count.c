@@ -16,16 +16,25 @@ printf("Enter 5 numbers:");
 
 for (int i = 0; i < 5; i++)
 {
-
   scanf("%d", &num);
 
-
   if (num>0)
-  {
+  {  
   positive_count++;
-  printf("Positive count = %d\n", positive_count);
   }
+   
 }
-
+printf("Positive count: %d", positive_count);
 return 0;
 }
+
+/*
+learned:
+for
+if
+scanf
+printf
+variables
+counters
+*/
+
